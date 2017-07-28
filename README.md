@@ -1,1 +1,3 @@
-# vestiti
+# Esercizi in C++
+
+by Baso
